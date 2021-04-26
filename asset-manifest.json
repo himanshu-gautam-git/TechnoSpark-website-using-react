@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TechnoSpark-website-using-react/static/css/main.9af2b545.chunk.css",
+    "main.js": "/TechnoSpark-website-using-react/static/js/main.f871f558.chunk.js",
+    "main.js.map": "/TechnoSpark-website-using-react/static/js/main.f871f558.chunk.js.map",
+    "runtime-main.js": "/TechnoSpark-website-using-react/static/js/runtime-main.79b1825a.js",
+    "runtime-main.js.map": "/TechnoSpark-website-using-react/static/js/runtime-main.79b1825a.js.map",
+    "static/css/2.74c02967.chunk.css": "/TechnoSpark-website-using-react/static/css/2.74c02967.chunk.css",
+    "static/js/2.28f6e2a6.chunk.js": "/TechnoSpark-website-using-react/static/js/2.28f6e2a6.chunk.js",
+    "static/js/2.28f6e2a6.chunk.js.map": "/TechnoSpark-website-using-react/static/js/2.28f6e2a6.chunk.js.map",
+    "index.html": "/TechnoSpark-website-using-react/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/TechnoSpark-website-using-react/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.9af2b545.chunk.css.map": "/TechnoSpark-website-using-react/static/css/main.9af2b545.chunk.css.map",
+    "static/js/2.28f6e2a6.chunk.js.LICENSE.txt": "/TechnoSpark-website-using-react/static/js/2.28f6e2a6.chunk.js.LICENSE.txt",
+    "static/media/about.e72e996b.jpg": "/TechnoSpark-website-using-react/static/media/about.e72e996b.jpg",
+    "static/media/android.4b880227.png": "/TechnoSpark-website-using-react/static/media/android.4b880227.png",
+    "static/media/app.684318d5.png": "/TechnoSpark-website-using-react/static/media/app.684318d5.png",
+    "static/media/digital.7177f15f.png": "/TechnoSpark-website-using-react/static/media/digital.7177f15f.png",
+    "static/media/home img.586b520b.jfif": "/TechnoSpark-website-using-react/static/media/home img.586b520b.jfif",
+    "static/media/software.d0a2057b.jpg": "/TechnoSpark-website-using-react/static/media/software.d0a2057b.jpg",
+    "static/media/web.586b520b.png": "/TechnoSpark-website-using-react/static/media/web.586b520b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b1825a.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.28f6e2a6.chunk.js",
+    "static/css/main.9af2b545.chunk.css",
+    "static/js/main.f871f558.chunk.js"
+  ]
+}
